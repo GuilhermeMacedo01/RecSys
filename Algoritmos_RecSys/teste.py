@@ -1,0 +1,1 @@
+print("Tempo para avaliar o modelo: 2537 segundos")
